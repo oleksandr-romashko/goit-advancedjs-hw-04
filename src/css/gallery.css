@@ -38,7 +38,8 @@
   
   font-size: var(--font-size-body-secondary);
 
-  background-image: url(./../img/nopic.jpg);
+  background-color: #ffffff;
+  background-image: url(./../img/image-placeholder.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
